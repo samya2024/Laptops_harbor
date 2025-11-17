@@ -1,0 +1,16 @@
+{
+  "rules": {
+    "users": {
+      ".indexOn": ["uuid"]
+    },
+    "wishlists":{
+      ".indexOn":["userId"]
+    },
+    "carts":{
+      ".indexOn":["userId"]
+    },
+    ".read": true,
+    ".write": true
+  }
+}
+

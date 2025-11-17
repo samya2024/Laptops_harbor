@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "669983738327",
+    "firebase_url": "https://laptopsharbor-default-rtdb.firebaseio.com",
+    "project_id": "laptopsharbor",
+    "storage_bucket": "laptopsharbor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669983738327:android:9f20db63fa85101aad2392",
+        "android_client_info": {
+          "package_name": "com.laptopsharbor.laptops_harbor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUgO89_1Hkv2kvzbepuDmcKNqjnPyCW20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
